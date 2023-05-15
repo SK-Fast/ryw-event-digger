@@ -3,6 +3,10 @@
 # Rayongwittayakom Event Schedule
 
 อ่านข้อมูลอีเวนต์ทั้งหมดของโรงเรียนระยองวิทยาคมผ่าน Tribe Events
+มีสองไฟล์ด้วยกัน
+
+`index.js` สำหรับดาวน์โหลด Event ทั้งหมดไว้ใน `ryw.json`
+`plan-filter.js` สำหรับการ Search คำใน Title หรือ Description(ต้องรัน `ryw.json` ก่อน)
 
 ## รันโปรแกรม/Setup
 คุณต้องลงโปรแกรมดังนี้เพื่อรันตัวโปรแกรม
